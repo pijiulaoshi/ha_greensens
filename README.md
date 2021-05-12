@@ -1,5 +1,7 @@
 # ha_greensens
  GreenSens plant sensors in Home Assistant
+ GreenSens website: https://greensens.de/en/
+ (I am in no way affiliated with GreenSens. This is just a hobby project.)
  
  Still a work in progress. Feel free to help out :)
  
