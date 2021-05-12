@@ -1,0 +1,6 @@
+{
+  "name": "GreenSens Plant Sensors",
+  "render_readme": true,
+  "iot_class": "cloud_polling",
+  "homeassistant": "2021.5.1"
+}
