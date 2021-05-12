@@ -1,0 +1,12 @@
+{
+  "domain": "greensens",
+  "name": "GreenSens",
+  "version": "0.3",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": ["@pijiulaoshi"],
+  "requirements": [],
+  "iot_class": "cloud_polling"
+}
+
+
