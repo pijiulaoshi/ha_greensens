@@ -2,7 +2,7 @@
   "domain": "greensens",
   "name": "GreenSens",
   "version": "0.3",
-  "documentation": "https://www.example.com",
+  "documentation": "https://github.com/pijiulaoshi/ha_greensens",
   "dependencies": [],
   "codeowners": ["@pijiulaoshi"],
   "requirements": [],
