@@ -3,7 +3,9 @@ import logging
 from homeassistant.helpers.discovery import load_platform
 
 from .const import *
-from .api import GreensensApi as gs
+#from .api import GreensensApi as gs
+
+from pygreensens import GreensensApi as gs
 
 _LOGGER = logging.getLogger(__name__)
 
